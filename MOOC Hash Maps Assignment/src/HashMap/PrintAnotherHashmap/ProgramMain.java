@@ -1,4 +1,4 @@
-package PrintAnotherHashmap;
+package HashMap.PrintAnotherHashmap;
 
 import java.util.HashMap;
 

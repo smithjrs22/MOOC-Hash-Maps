@@ -1,4 +1,4 @@
-package Abbreviations;
+package HashMap.Abbreviations;
 public class AbbreviationMain {
     public static void main (String[] args){
         Abbreviations abbreviations = new Abbreviations();

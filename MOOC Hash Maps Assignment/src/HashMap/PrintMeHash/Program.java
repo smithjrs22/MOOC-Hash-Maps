@@ -1,4 +1,4 @@
-package PrintMeHash;
+package HashMap.PrintMeHash;
 import java.util.HashMap;
 import java.util.Map;
 

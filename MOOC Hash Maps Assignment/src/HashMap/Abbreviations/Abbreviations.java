@@ -1,4 +1,4 @@
-package Abbreviations;
+package HashMap.Abbreviations;
 import java.util.HashMap;
 import java.util.Map;
 

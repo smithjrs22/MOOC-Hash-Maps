@@ -1,4 +1,4 @@
-package Nicknames;
+package HashMap.Nicknames;
 import java.util.HashMap;//must have for Hashmap
 
 public class Main {
