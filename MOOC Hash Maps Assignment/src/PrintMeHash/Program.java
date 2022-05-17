@@ -1,3 +1,4 @@
+package PrintMeHash;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -41,5 +42,5 @@ public class Program {
         }
     }
 
-    
+
 }
