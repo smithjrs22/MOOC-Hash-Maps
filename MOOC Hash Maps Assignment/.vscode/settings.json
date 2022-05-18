@@ -1,5 +1,5 @@
 {
-  "java.project.sourcePaths": ["src", "I Owe You"],
+  "java.project.sourcePaths": ["src", "Tacos"],
   "java.project.outputPath": "bin",
   "java.project.referencedLibraries": ["lib/**/*.jar"]
 }
